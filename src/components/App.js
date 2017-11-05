@@ -1,9 +1,4 @@
 import NavigationBar from 'react-native-navbar'
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
 
 import React, { Component } from 'react';
 import {
@@ -13,6 +8,17 @@ import {
   View
 } from 'react-native';
 import LocationAutocompleteScreen from './LocationAutocompleteScreen';
+
+
+const Root = () => (
+  <Router>
+   <Stack key="root">
+     <Scene key="lagless" component={Lagless} title="Lagless"/>
+     <Scene key="register" component={Register} title="Register"/>
+     <Scene key="home" component={Home}/>
+   </Stack>
+ </Router>
+);
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
@@ -25,6 +31,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
+        <Button title="Go to Register page" onPress={Actions.register} />
           <NavigationBar
             title={{ title: 'Lagless', tintColor: 'black', }}
             leftButton={{ title: '*', }}

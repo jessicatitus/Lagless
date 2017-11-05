@@ -7,11 +7,12 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.0.0",
+    "react": "^15.0.2",
     "react-native": "0.50.1",
     "react-native-autocomplete": "^0.3.0",
     "react-native-autocomplete-input": "^3.4.0",
-    "react-native-navbar": "^2.1.0"
+    "react-native-navbar": "^2.1.0",
+    "react-native-navigation": "^1.1.257"
   },
   "devDependencies": {
     "babel-jest": "21.2.0",
