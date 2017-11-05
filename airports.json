@@ -1,0 +1,440 @@
+[
+ {
+   "City": "Goroka",
+   "Country": "Papua New Guinea",
+   "Code": "GKA",
+   "Timezone": "10"
+ },
+ {
+   "City": "Madang",
+   "Country": "Papua New Guinea",
+   "Code": "MAG",
+   "Timezone": "10"
+ },
+ {
+   "City": "Mount Hagen",
+   "Country": "Papua New Guinea",
+   "Code": "HGU",
+   "Timezone": "10"
+ },
+ {
+   "City": "Nadzab",
+   "Country": "Papua New Guinea",
+   "Code": "LAE",
+   "Timezone": "10"
+ },
+ {
+   "City": "Port Moresby",
+   "Country": "Papua New Guinea",
+   "Code": "POM",
+   "Timezone": "10"
+ },
+ {
+   "City": "Wewak",
+   "Country": "Papua New Guinea",
+   "Code": "WWK",
+   "Timezone": "10"
+ },
+ {
+   "City": "Narssarssuaq",
+   "Country": "Greenland",
+   "Code": "UAK",
+   "Timezone": "-3"
+ },
+ {
+   "City": "Godthaab",
+   "Country": "Greenland",
+   "Code": "GOH",
+   "Timezone": "-3"
+ },
+ {
+   "City": "Sondrestrom",
+   "Country": "Greenland",
+   "Code": "SFJ",
+   "Timezone": "-3"
+ },
+ {
+   "City": "Thule",
+   "Country": "Greenland",
+   "Code": "THU",
+   "Timezone": "-4"
+ },
+ {
+   "City": "Akureyri",
+   "Country": "Iceland",
+   "Code": "AEY",
+   "Timezone": "0"
+ },
+ {
+   "City": "Egilsstadir",
+   "Country": "Iceland",
+   "Code": "EGS",
+   "Timezone": "0"
+ },
+ {
+   "City": "Hofn",
+   "Country": "Iceland",
+   "Code": "HFN",
+   "Timezone": "0"
+ },
+ {
+   "City": "Husavik",
+   "Country": "Iceland",
+   "Code": "HZK",
+   "Timezone": "0"
+ },
+ {
+   "City": "Isafjordur",
+   "Country": "Iceland",
+   "Code": "IFJ",
+   "Timezone": "0"
+ },
+ {
+   "City": "Keflavik",
+   "Country": "Iceland",
+   "Code": "KEF",
+   "Timezone": "0"
+ },
+ {
+   "City": "Patreksfjordur",
+   "Country": "Iceland",
+   "Code": "PFJ",
+   "Timezone": "0"
+ },
+ {
+   "City": "Reykjavik",
+   "Country": "Iceland",
+   "Code": "RKV",
+   "Timezone": "0"
+ },
+ {
+   "City": "Siglufjordur",
+   "Country": "Iceland",
+   "Code": "SIJ",
+   "Timezone": "0"
+ },
+ {
+   "City": "Vestmannaeyjar",
+   "Country": "Iceland",
+   "Code": "VEY",
+   "Timezone": "0"
+ },
+ {
+   "City": "Sault Sainte Marie",
+   "Country": "Canada",
+   "Code": "YAM",
+   "Timezone": "-5"
+ },
+ {
+   "City": "Winnipeg",
+   "Country": "Canada",
+   "Code": "YAV",
+   "Timezone": "-6"
+ },
+ {
+   "City": "Halifax",
+   "Country": "Canada",
+   "Code": "YAW",
+   "Timezone": "-4"
+ },
+ {
+   "City": "St. Anthony",
+   "Country": "Canada",
+   "Code": "YAY",
+   "Timezone": "-3.5"
+ },
+ {
+   "City": "Tofino",
+   "Country": "Canada",
+   "Code": "YAZ",
+   "Timezone": "-8"
+ },
+ {
+   "City": "Pelly Bay",
+   "Country": "Canada",
+   "Code": "YBB",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Baie Comeau",
+   "Country": "Canada",
+   "Code": "YBC",
+   "Timezone": "-5"
+ },
+ {
+   "City": "Bagotville",
+   "Country": "Canada",
+   "Code": "YBG",
+   "Timezone": "-5"
+ },
+ {
+   "City": "Baker Lake",
+   "Country": "Canada",
+   "Code": "YBK",
+   "Timezone": "-6"
+ },
+ {
+   "City": "Campbell River",
+   "Country": "Canada",
+   "Code": "YBL",
+   "Timezone": "-8"
+ },
+ {
+   "City": "Brandon",
+   "Country": "Canada",
+   "Code": "YBR",
+   "Timezone": "-6"
+ },
+ {
+   "City": "Cambridge Bay",
+   "Country": "Canada",
+   "Code": "YCB",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Nanaimo",
+   "Country": "Canada",
+   "Code": "YCD",
+   "Timezone": "-8"
+ },
+ {
+   "City": "Castlegar",
+   "Country": "Canada",
+   "Code": "YCG",
+   "Timezone": "-8"
+ },
+ {
+   "City": "Chatham",
+   "Country": "Canada",
+   "Code": "YCH",
+   "Timezone": "-4"
+ },
+ {
+   "City": "Charlo",
+   "Country": "Canada",
+   "Code": "YCL",
+   "Timezone": "-4"
+ },
+ {
+   "City": "Coppermine",
+   "Country": "Canada",
+   "Code": "YCO",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Coronation",
+   "Country": "Canada",
+   "Code": "YCT",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Chilliwack",
+   "Country": "Canada",
+   "Code": "YCW",
+   "Timezone": "-8"
+ },
+ {
+   "City": "Clyde River",
+   "Country": "Canada",
+   "Code": "YCY",
+   "Timezone": "-5"
+ },
+ {
+   "City": "Coral Harbour",
+   "Country": "Canada",
+   "Code": "YZS",
+   "Timezone": "-5"
+ },
+ {
+   "City": "Dawson",
+   "Country": "Canada",
+   "Code": "YDA",
+   "Timezone": "-8"
+ },
+ {
+   "City": "Burwash",
+   "Country": "Canada",
+   "Code": "YDB",
+   "Timezone": "-8"
+ },
+ {
+   "City": "Princeton",
+   "Country": "Canada",
+   "Code": "YDC",
+   "Timezone": "-8"
+ },
+ {
+   "City": "Deer Lake",
+   "Country": "Canada",
+   "Code": "YDF",
+   "Timezone": "-3.5"
+ },
+ {
+   "City": "Dease Lake",
+   "Country": "Canada",
+   "Code": "YDL",
+   "Timezone": "-8"
+ },
+ {
+   "City": "Dauphin",
+   "Country": "Canada",
+   "Code": "YDN",
+   "Timezone": "-6"
+ },
+ {
+   "City": "Dawson Creek",
+   "Country": "Canada",
+   "Code": "YDQ",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Edmonton",
+   "Country": "Canada",
+   "Code": "YEG",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Eskimo Point",
+   "Country": "Canada",
+   "Code": "YEK",
+   "Timezone": "-6"
+ },
+ {
+   "City": "Estevan",
+   "Country": "Canada",
+   "Code": "YEN",
+   "Timezone": "-6"
+ },
+ {
+   "City": "Edson",
+   "Country": "Canada",
+   "Code": "YET",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Eureka",
+   "Country": "Canada",
+   "Code": "YEU",
+   "Timezone": "-6"
+ },
+ {
+   "City": "Inuvik",
+   "Country": "Canada",
+   "Code": "YEV",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Iqaluit",
+   "Country": "Canada",
+   "Code": "YFB",
+   "Timezone": "-5"
+ },
+ {
+   "City": "Fredericton",
+   "Country": "Canada",
+   "Code": "YFC",
+   "Timezone": "-4"
+ },
+ {
+   "City": "Forestville",
+   "Country": "Canada",
+   "Code": null,
+   "Timezone": "-5"
+ },
+ {
+   "City": "Flin Flon",
+   "Country": "Canada",
+   "Code": "YFO",
+   "Timezone": "-6"
+ },
+ {
+   "City": "Fort Resolution",
+   "Country": "Canada",
+   "Code": "YFR",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Fort Simpson",
+   "Country": "Canada",
+   "Code": "YFS",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Kingston",
+   "Country": "Canada",
+   "Code": "YGK",
+   "Timezone": "-5"
+ },
+ {
+   "City": "La Grande Riviere",
+   "Country": "Canada",
+   "Code": "YGL",
+   "Timezone": "-5"
+ },
+ {
+   "City": "Gaspe",
+   "Country": "Canada",
+   "Code": "YGP",
+   "Timezone": "-5"
+ },
+ {
+   "City": "Geraldton",
+   "Country": "Canada",
+   "Code": "YGQ",
+   "Timezone": "-5"
+ },
+ {
+   "City": "Iles De La Madeleine",
+   "Country": "Canada",
+   "Code": "YGR",
+   "Timezone": "-5"
+ },
+ {
+   "City": "Hudson Bay",
+   "Country": "Canada",
+   "Code": "YHB",
+   "Timezone": "-6"
+ },
+ {
+   "City": "Dryden",
+   "Country": "Canada",
+   "Code": "YHD",
+   "Timezone": "-6"
+ },
+ {
+   "City": "Holman Island",
+   "Country": "Canada",
+   "Code": "YHI",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Gjoa Haven",
+   "Country": "Canada",
+   "Code": "YHK",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Hamilton",
+   "Country": "Canada",
+   "Code": "YHM",
+   "Timezone": "-5"
+ },
+ {
+   "City": "Montreal",
+   "Country": "Canada",
+   "Code": "YHU",
+   "Timezone": "-5"
+ },
+ {
+   "City": "Hay River",
+   "Country": "Canada",
+   "Code": "YHY",
+   "Timezone": "-7"
+ },
+ {
+   "City": "Halifax",
+   "Country": "Canada",
+   "Code": "YHZ",
+   "Timezone": "-4"
+ }
+ ]
